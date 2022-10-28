@@ -1,5 +1,5 @@
 ### Hi there 👋, Hi I'm **redcrossPL**
-![](https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Github-512.png)
+![](https://cdn3d.iconscout.com/3d/free/thumb/github-2-5645861-4695719.png)
 
 ***I learn to code and also write some small programs in different 
 languages.***
