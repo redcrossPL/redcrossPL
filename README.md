@@ -1,4 +1,4 @@
-### Hi there 👋, Hi I'm **redcrossPL**
+Hi I'm **redcrossPL**
 ![](https://cdn3d.iconscout.com/3d/free/thumb/github-2-5645861-4695719.png)
 
 ***I learn to code and also write some small programs in different 
